@@ -1,1 +1,1 @@
-# orjan-grottvedt-berger-js1-ma1
+This is module assignment 1 for the javascript course at Noroff. Repository made by Ørjan Grøttvedt Berger
